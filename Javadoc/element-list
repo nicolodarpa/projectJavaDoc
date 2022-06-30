@@ -1,0 +1,9 @@
+it.polimi.ingsw
+it.polimi.ingsw.client
+it.polimi.ingsw.client.view
+it.polimi.ingsw.comunication
+it.polimi.ingsw.model
+it.polimi.ingsw.model.CharacterCards
+it.polimi.ingsw.server.controller
+it.polimi.ingsw.server.model
+it.polimi.ingsw.server.model.CharacterCards
